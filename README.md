@@ -1,13 +1,13 @@
 # PacMen-Factory
-## This project should generate a  pac man in the window at the click of the "add pacman" button and assing it a random velocity in both the x and y directions, remaining idle untill the "start game button has been pressed. Each pac man generated should then be able to identify a colision with the edge of the windo and reverse the respective velocity in order to bounce off the edge and continue
+## This project should generate a  pac man in the window at the click of the "add pac-man" button and assigns it a random velocity in both the x and y directions, remaining idle until the "start game" button has been pressed. Each pac-man generated should then be able to identify a collision with the edge of the window and reverse the respective velocity in order to bounce off the edge and continue
 
 ### to run this program, clone the repository and then open the index.html in your browser 
 
-#### currently the image of pac man is static only useing pacman1.png coming back to this project I intend to add a loop that will allow each created token to oscilate between the open mouth and closed mouth varients as it moves, as well as implement code so that images 3 and 4 get utilized when the velocity in the x direction is negative
+#### currently the image of pac-man is static only using pacman1.png coming back to this project I intend to add a loop that will allow each created token to oscilate between the open mouth and closed mouth variants as it moves, as well as implement code so that images 3 and 4 get utilized when the velocity in the x direction is negative
 
 ##### MIT License
 
-Copyright (c) [2020] [Austin Quinn]
+Copyright (c) [2022] [Austin Quinn]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
